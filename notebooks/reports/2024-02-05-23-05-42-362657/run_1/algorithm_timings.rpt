@@ -1,6 +1,0 @@
-SpYNNakerNeuronGraphNetworkSpecificationReport skipped as cfg Reports:write_network_graph is False
-Network Specification report took 0:00:00.001137 
-Splitter reset took 0:00:00.000011 
-Spynnaker splitter selector took 0:00:00.007592 
-DelaySupportAdder took 0:00:00.010815 
-Splitter partitioner took 0:00:00.011336 
